@@ -1,0 +1,10 @@
+x = int(input("Enter x value"))
+y = int(input("Enter y value"))
+if(x>y):
+    print('x is big')
+else:
+    print('y is big')
+OUTPUT:
+Enter x value 56
+Enter y value 65
+y is big
